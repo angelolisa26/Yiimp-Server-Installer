@@ -1,4 +1,4 @@
-## Dirty Harry`s YiiMP Server Installer !
+### Dirty Harry`s YiiMP Server Installer !
 
 ## This is opened as a public repo - all features are not final!
 
